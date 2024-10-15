@@ -15,7 +15,7 @@ public class HelloApplication extends Application {
         stage.setTitle("Hello!");
         stage.setScene(scene);
         stage.show();
-        System.out.println("test git");
+        System.out.println("test gitw");
     }
 
     public static void main(String[] args) {
